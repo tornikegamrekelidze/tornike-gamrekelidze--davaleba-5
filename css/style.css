@@ -217,6 +217,26 @@ p {
 
 .computer {
 	vertical-align: top;
-	margin-right: 66px;s
+	margin-right: 66px;
+	margin-bottom: 140px;
 }
 
+
+.p2 {
+	display: inline-block;
+	line-height: 120%;
+}
+
+
+.myp2 {
+	width: 778pxs;
+}
+
+.fb {
+	margin-right: 41px;
+	margin-left: 52px;
+}
+
+.line {
+	margin-right: 41px;
+}
