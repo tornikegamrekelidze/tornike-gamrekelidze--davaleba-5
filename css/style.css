@@ -1,0 +1,222 @@
+nav {
+	display: inline-block;
+}
+
+.html-logo {
+	vertical-align: middle;
+	margin-right: 87px;
+}
+
+header {
+	margin: 50px;
+}
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.main {
+	color: #4E6FAE;
+}
+
+
+.container {
+	width: 1440px;
+
+	margin:0 auto ;
+}
+
+.my26 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+
+}
+
+.myh1 {
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	color: #8D81FF;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+}
+
+.myh2 {
+	font-family: "ALK Rex Bold", sans-serif;
+	color: #4E6FAE;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.codeimage {
+	margin-right: 66px;
+	vertical-align: top;
+
+}
+.myp {
+	display: inline-block;
+}
+
+p {
+	width: 778px;
+ 	margin-bottom: 20px;
+ 	font-family: "ALK Sanet", sans-serif;
+ 	color: #4E6FAE;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+
+.my-h1{
+	font-family: "ALK Sanet", sans-serif;
+	color: #4E6FAE;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+}
+
+.my-h2{
+	font-family: "ALK Sanet", sans-serif;
+	color: #4E6FAE;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.my-h3 {
+	font-family: "ALK Sanet", sans-serif;
+	color: #4E6FAE;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+/*აქ დავამთავრე 26 მაისის თემა*/
+
+
+
+.my27 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-top: 155px;
+
+}
+
+.myh-1 {
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	color: #8D81FF;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+}
+
+
+.myh-2 {
+	font-family: "ALK Rex Bold", sans-serif;
+	color: #4E6FAE;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+
+.codeimg {
+	vertical-align: top;
+	margin-right: 66px;
+}
+
+.myp2 {
+	display: inline-block;
+
+}
+
+.p1 {
+	line-height: 120%;
+}
+
+/*აქ დავამთავრე 27 მაისის პრეზენტაცია*/
+
+
+.my28 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-top: 155px;
+}
+
+
+.my-h-1 {
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	color: #8D81FF;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+
+.my-h-2 {
+	font-family: "ALK Rex Bold", sans-serif;
+	color: #4E6FAE;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.computer {
+	vertical-align: top;
+	margin-right: 66px;s
+}
+
