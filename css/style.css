@@ -368,3 +368,74 @@ p {
 	margin-left: 134px;
 	margin-top: 93px;
 }
+
+
+.container2 {
+	width: 1460px;
+	margin: 0 auto;
+
+}
+
+
+.contact {
+	width: 1460px;
+    height: 735px;
+	background-color: #E7E7E7;
+	padding-top: 93px;
+
+}
+
+.contact-h1 {
+	color: #4E6FAE;
+	font-family: "Helvetica Neue";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 27px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+
+.contact-h {
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 12px;
+	vertical-align: top;
+}
+
+span {
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+
+.contacth {
+	margin-left: 162px;
+
+	vertical-align: top;
+}
+
+
+
+iframe {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 620px
+
+}
+
+.footer2 {
+	margin-top: 93px;
+
+}
