@@ -240,3 +240,131 @@ p {
 .line {
 	margin-right: 41px;
 }
+
+/*სიახლეების გვერდის დაწყება*/
+
+.container1 {
+	width: 1155px;
+
+
+	margin: 0 auto;
+
+}
+
+
+.htmlbanner {
+	width: 1052px;
+    height: 462px;
+}
+
+
+ .news {
+ 	margin-top: 120px;
+ 	color: #4E6FAE;
+ 	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-right: 20px;
+
+ }
+
+ .line {
+ 	display: inline-block;
+ 	margin-right: 20px;
+ }
+
+.news-h2 {
+	display: inline-block;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+} 
+
+.card-1-h1 {
+	font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 20px;
+    color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.card-1 {
+	background-color: #E7E7E7;
+	width: 500px;
+    height: 192px;
+    padding: 15px;
+    margin-top: 26px;
+    display: inline-block;
+    margin-right: 52px;
+}
+
+.cardimg {
+	margin-right: 40px;
+	
+}
+
+.card-p {
+	width: 335px;
+    height: 95px;
+    display: inline-block;
+    color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.card-2 {
+	background-color: #E7E7E7;
+	width: 500px;
+    height: 192px;
+    padding: 15px;
+    margin-top: 26px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card-2p {
+	display: inline-block;
+	width:  335px;
+    height: 95px;
+    color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+}
+
+.card-2h1 {
+	font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 20px;
+    color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+}
+
+
+.footer1 {
+	margin-left: 134px;
+	margin-top: 93px;
+}
